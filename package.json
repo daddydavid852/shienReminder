@@ -1,0 +1,13 @@
+{
+  "name": "product-monitor",
+  "version": "1.0.0",
+  "description": "Monitor product count changes from SHEIN India API with Telegram notifications",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
